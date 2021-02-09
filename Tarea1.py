@@ -1,0 +1,5 @@
+print ('Hola mundo!!!\n')
+nombre = input("Ingresa tu nombre: ")
+apellido1 = input("\nIngresa tu primer apellido: ")
+apellido2 = input("\nIngresa tu segundo apellido: ")
+print ("\nMucho gusto conocerte", nombre, apellido1, apellido2, "!!!")
