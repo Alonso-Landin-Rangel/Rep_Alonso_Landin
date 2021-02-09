@@ -1,1 +1,1 @@
-# Rep_Alonso_Landin
+# Repositorio de tareas (curso Python DCI)
